@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name esp32)(type Legacy)(uri /media/internal/projects/intergalaktik/ULX4M-CM4-HAT/footprints/esp32/esp32.lib)(options "")(descr ""))
+  (lib (name ESP32-WROOM)(type Legacy)(uri /media/internal/projects/intergalaktik/ULX4M-CM4-HAT/footprints/esp32/ESP32-WROOM.lib)(options "")(descr ""))
+)
