@@ -1,0 +1,9 @@
+(fp_lib_table
+  (lib (name Switch_EVPAA)(type KiCad)(uri ${KIPRJMOD}/footprints/pushbutton/Switch_EVPAA)(options "")(descr ""))
+  (lib (name usb_otg)(type KiCad)(uri ${KIPRJMOD}/footprints/usb_otg/usb_otg.pretty)(options "")(descr ""))
+  (lib (name ft231x)(type KiCad)(uri ${KIPRJMOD}/footprints/usbserial/ft231x.pretty)(options "")(descr ""))
+  (lib (name ESP32-WROVER-E)(type KiCad)(uri ${KIPRJMOD}/footprints/esp32/ESP32-WROVER-E.pretty)(options "")(descr ""))
+  (lib (name ESP32-WROOM-stencil)(type KiCad)(uri ${KIPRJMOD}/footprints/esp32/ESP32-WROOM-stencil.pretty)(options "")(descr ""))
+  (lib (name ESP32-WROOM32)(type KiCad)(uri ${KIPRJMOD}/footprints/esp32/ESP32-WROOM32.pretty)(options "")(descr ""))
+  (lib (name ESP32)(type KiCad)(uri ${KIPRJMOD}/footprints/esp32/ESP32.pretty)(options "")(descr ""))
+)
