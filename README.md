@@ -5,7 +5,7 @@ cm4_gpio|wifi_gpio|HAT function|FPGA|FPGA
 --- | --- | --- | --- | --
 0 | 21 | SDA0 | P17 |
 1 | 22 | SCL0 | P16 |
-2 | 14 | SD_D2 | K1 | K5
+2 | 12 | SD_D2 | K1 | K5
 3 | 4 | SD_D1 | H1 | J5
 4 | 2 | SD_D0 | J3 | K4
 5 | 33 | | H16 |
