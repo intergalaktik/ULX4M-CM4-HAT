@@ -8,6 +8,8 @@ After doing that directly (bricking pins on shield FTDI TX > ESP32 RX, ESP32 TX 
 WROOM is still not perfect fit as it has low memory.
 WROWER can access shared SD card, and flash FPGA over WIFI.
 
+![ULX4M_HAT](https://raw.githubusercontent.com/intergalaktik/ULX4M-CM4-HAT/main/pic/ULX4M_HAT.png)
+
 ### Current pinout
 
 cm4_gpio|wifi_gpio|HAT function|FPGA|FPGA
