@@ -1,5 +1,14 @@
 # ULX4M-CM4-HAT
 
+###
+
+On V1 we have FTDI to FPGA working and we can upload bitstream to FPGA, serial passtrue is also working.
+For some reason it was hard to put ESP32 into bootloader mode, and I was not able to load micropython while shiled was connected to FPGA.
+After doing that directly (bricking pins on shield FTDI TX > ESP32 RX, ESP32 TX > FTDI RX, GPIO0 > GND) I have succesfully loaded micropython on ESP32.
+WROOM is still not perfect fit as it has low memory.
+WROWER can access shared SD card, and flash FPGA over WIFI.
+
+### Current pinout
 
 cm4_gpio|wifi_gpio|HAT function|FPGA|FPGA
 --- | --- | --- | --- | --
