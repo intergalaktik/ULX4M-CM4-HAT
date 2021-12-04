@@ -31,3 +31,26 @@ cm4_gpio|wifi_gpio|HAT function|FPGA|FPGA
 25 | RXD0 | WIFI_RDX | P5 |
 26 | TXD0 | WIFI_TXD | V1 |
 27 | 15 | SD_CMD | J1 | N16
+
+### ToDo
+
+- [x] FTDI chip
+- [ ] USB
+- [x] FTDI JTAG connected to FPGA
+- [x] FTDI UART connected to FPGA
+- [x] ESP32 UART connected to FPGA
+- [x] ESP32 connected to SD card that is connected to FPGA ( SD card sharing )
+- [x] LEDS
+- [x] BTNS
+- [ ] USBC
+- [ ] 8 LEDs
+- [ ] 8 BTNs
+- [ ] ESP32 WROM
+- [ ] ESP32 WROVER
+- [ ] ESP32 S2 
+- [ ] ESP32 S3
+- [ ] FT4232
+- [ ] USB A host connector connected directly to FPGA
+- [ ] I2S Audio
+- [ ] Audio amplifier
+- [ ] PMOD connector/connectors
