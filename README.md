@@ -35,7 +35,7 @@ cm4_gpio|wifi_gpio|HAT function|FPGA|FPGA
 ### ToDo
 
 - [x] FTDI chip
-- [ ] USB
+- [x] USB
 - [x] FTDI JTAG connected to FPGA
 - [x] FTDI UART connected to FPGA
 - [x] ESP32 UART connected to FPGA
